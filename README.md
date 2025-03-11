@@ -3,7 +3,6 @@
 Телефон: 89106037171  
 Email: serenka322@yandex.ru  
 Tg: https://t.me/serenka322
-GitHub: [GitHub](https://github.com/cerega2014/cerega2014)
 
 ### Профессиональный опыт
 **QA engineer**   
