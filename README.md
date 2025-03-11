@@ -7,7 +7,7 @@ Tg: https://t.me/serenka322
 ### Профессиональный опыт
 **QA engineer**   
 Апрель 2024 — по настоящее время (11 месяцев)  
-- Manual testing 
+- Manual testing
 
 **Курс тестировщик ПО с нуля от Pro-test.studio**  
 Январь. 2024 г. - Апрель. 2024 г.  
